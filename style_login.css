@@ -1,0 +1,10 @@
+
+.forms_login{ 
+    position: relative;
+    top: 10vh;
+    width: 400px;
+    height: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    width: max-content;
+}

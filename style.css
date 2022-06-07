@@ -1,10 +1,11 @@
 :root {
-    --main-color:white; 
-    --fondo-deltodo:lightgray;
+    --main-color:rgba(255, 255, 255); 
+    --fondo-deltodo:rgba(211, 211, 211,40%);
 }
 body {
     margin: 0;
     background: var(--fondo-deltodo);
+    
 }
 
 .bg {
@@ -24,9 +25,6 @@ body {
 }
 .ubicacion{
     text-align: center;
-}
-.img-fluid{
-    border-radius: 80px;
 }
 .bg-text {
     color: var(--main-color);
@@ -113,3 +111,4 @@ margin-top: 40px;
     width: 100%;
     font-size: 16px;
 }
+
